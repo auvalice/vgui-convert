@@ -7,6 +7,7 @@
     "name": "Alice Vee",
     "email": "auvalice@outlook.com"
   },
+  "repository": "github:auvalice/vgui-convert",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
